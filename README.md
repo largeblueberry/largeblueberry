@@ -22,6 +22,7 @@
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white)
 
+
 ### **Architecture & Patterns**
 - **Clean Architecture** with **MVVM**
 - **Multi-Module Architecture**
@@ -60,7 +61,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onlym6659@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%B8%94%EB%A3%A8%EB%B2%A0%EB%A6%AC-%EB%9D%BC%EC%A6%88-20674b2ab/)
-[![Blog](https://img.shields.io/badge/Tech%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)]((https://blog.naver.com/onlym3480))
+[![Blog](https://img.shields.io/badge/Tech%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.naver.com/onlym3480)
 
 ---
 
@@ -68,6 +69,5 @@
 
 **"Exploring the depths of code to create better software"**
 
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
 
 </div>
