@@ -66,6 +66,4 @@
 
 <div align="center">
 
-**"Good code is not code that works today — it's code that can be changed tomorrow."**
-
 </div>
